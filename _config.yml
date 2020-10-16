@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/achilleasein"
+baseurl: ""
 url: "https://achilleasein.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
