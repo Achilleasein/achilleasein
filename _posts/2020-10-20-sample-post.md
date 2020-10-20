@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 
 Welcome to my website, this is my first post!
 <!--more-->
-Welcome to my website!
 
 First and foremost thank you for comming here.
 The idea behind this website is to showcase my work, share what I know an learn from everyone that visits it.
