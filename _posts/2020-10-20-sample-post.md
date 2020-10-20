@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My new website
+title: Welcoming message
 tags: [First, Post, Welcome, New, Site]
 excerpt_separator: <!--more-->
 ---
