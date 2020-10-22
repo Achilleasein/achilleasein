@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/travel.jpg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hello there! (General Kenobi)
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+This is my website as you have guessed so far and my name is Achilleas Yfantis, you probably guessed that as well due to the title but nontheless it's polite to introduce one self.
+My hope and goal for this website is to create a small corner for my projects and creations, meet new people and create communicate my knowledge and know-how to the world.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+P.S.: The image on top calms me a lot, its from the beach Elafonissi in Crete, Greece. One of my favourite places on earth, do visit it some day!
