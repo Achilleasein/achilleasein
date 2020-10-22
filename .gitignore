@@ -29,3 +29,6 @@ jekyll-theme-type-on-strap.gemspec
 .jekyll-cache/*
 test/*
 assets/package-lock.json
+
+# Ignoring some backup files
+img_bk/
