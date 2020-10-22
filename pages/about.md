@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpg"
+feature-img: "assets/img/pexels/creta-elafonisi-beach-greece.jpg"
 tags: [About, Archive]
 ---
 
