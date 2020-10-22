@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
-feature-img: "assets/img/pexels/elafonisi.jpg"
+feature-img: "assets/img/gallery_images/elafonisi.jpg"
 tags: [About, Archive]
 ---
 

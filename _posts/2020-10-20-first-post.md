@@ -15,4 +15,4 @@ To be a giant might be hard, but we can at least try to boost the knowledge of e
 
 Below is a photo for my travels, it calms a lot, hope it helps you as well during a rough day.
 
-{% include aligner.html images="pexels/travel.jpg" column=1 %}
+{% include aligner.html images="gallery_images/travel.jpg" column=1 %}

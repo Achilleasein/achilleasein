@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Gallery
-subtitle: From the pexels folder
+subtitle: From the gallery_images folder
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/gallery_images"
 tags: [Gallery, Photo]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to create automatically a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+This is a photo galery with random photos that I like.
+It was already in the template so I thought to share what is in use in the website along with other cool photos.
+Enjoy!
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
