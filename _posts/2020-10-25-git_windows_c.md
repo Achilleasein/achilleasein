@@ -77,5 +77,3 @@ Keep in mind that I have a .gitignore file, in that specific file we add files t
   Keep in mind that the directory is an example, its more like in the photo above. 
 - Git ignore file has many uses, for example when you create a web service application on python sometimes you have some passwords as plaintext to access a DB. 
   The proper way to mitigate any security issues is to work in a Venv and setup env variables, that way you can add the venv file on .gitignore and your password will stay local, it will also ensure that no other person/colleague which forks will add them as plaintext and then push by accident.
-
-    <!-- Simple setup to run c/cpp and use github on W10  -->
