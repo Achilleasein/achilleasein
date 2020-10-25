@@ -65,6 +65,7 @@ You can feel free to fork, branch or do anything you like with the repo in your 
 Keep in mind that I have a .gitignore file, in that specific file we add files that want to be ignored and never be pushed in the repo, for our current use we dont want to push the executable since anyone can compile it in his PC.
 
 ### Tips && Tricks
+
 - Instead of trying to cd every time, you can actually store the commands for future use, there are 2 ways to do that.
     1. Execute the command as follows: cd /usr/Desktop/github # cd to github repo , what does that to? Whats written after the # works as a comment but its still visible by the cmd. Meaning we can actually use the Ctrl+R(reverse search) on cmd to search for the comment. In that case you will need to do the following: Ctrl+R -> cd to github repo, just like in the image below:
     {% include aligner.html images="reverse_search.PNG" column=1 %} \
