@@ -67,8 +67,8 @@ Keep in mind that I have a .gitignore file, in that specific file we add files t
 ### Tips && Tricks
 - Instead of trying to cd every time, you can actually store the commands for future use, there are 2 ways to do that.
     1. Execute the command as follows: cd /usr/Desktop/github # cd to github repo , what does that to? Whats written after the # works as a comment but its still visible by the cmd. Meaning we can actually use the Ctrl+R(reverse search) on cmd to search for the comment. In that case you will need to do the following: Ctrl+R -> cd to github repo, just like in the image below:
-    {% include aligner.html images="reverse_search.PNG" column=1 %} \ 
-    The cmd will autofill the rest, then press enter and done, you have changed directory without the need to type everything manually. \ 
+    {% include aligner.html images="reverse_search.PNG" column=1 %} \
+    The cmd will autofill the rest, then press enter and done, you have changed directory without the need to type everything manually. \
     
     2. You can create custom bash commands, [here](https://dev.to/mollynem/4-simple-steps-for-custom-bash-commands-4c58) is a simple guide or follow the instructions below:
 
