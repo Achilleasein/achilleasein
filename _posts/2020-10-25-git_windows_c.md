@@ -31,6 +31,8 @@ When you install everything you will have to restart your PC(expected from windo
 
 ### Getting Acustomed.
 
+Visual studio code has some excellent features, such as 
+
 
 
 ### Tips && Tricks
@@ -40,10 +42,10 @@ When you install everything you will have to restart your PC(expected from windo
     The cmd will autofill the rest, then press enter and done, you have changed directory without the need to type everything manually.
     
     2. You can create custom bash commands, [here](https://dev.to/mollynem/4-simple-steps-for-custom-bash-commands-4c58) is a simple guide or follow the instructions below:
-      - cd ~ , this will bring you to home directory
-      - In there is the .bashrc, to view it use the command ls -la
-      - Edit it and find the alias, there you can add you custom command as follows: alias cdtodesk ='cd /usr/Desktop/github'
-  Keep in mind that the directory is an example, its more like in the photo above. 
+    - cd ~ , this will bring you to home directory
+    - In there is the .bashrc, to view it use the command ls -la
+    - Edit it and find the alias, there you can add you custom command as follows: alias cdtodesk ='cd /usr/Desktop/github'
+   Keep in mind that the directory is an example, its more like in the photo above. 
 
 
     <!-- Simple setup to run c/cpp and use github on W10  -->
