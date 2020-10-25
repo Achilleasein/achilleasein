@@ -9,6 +9,8 @@ This is a simple guide to setup on your W10 PC an easy way to run c/cpp code, pu
 I will guide you through each step of the way for an easy and fast setup. It will take us around 30 minutes.
 <!--more-->
 
+:warning: Under construction :warning:
+
 ## Simple setup cookbook
 
 ### Ingredients
@@ -29,10 +31,19 @@ Ubuntu can see the filesystem of windows and vice versa (the oposite is a little
 
 When you install everything you will have to restart your PC(expected from windows at this point).
 
-### Getting Acustomed.
+### Getting Acustomed
 
-Visual studio code has some excellent features, such as 
+Let's explaing what we installed and how we are going to use them.
+- Visual studio code has some excellent features, such as markdown for each different language, keep tracking of changes in repositories and connecting with compilers.
+  I constantly use visual studio because it lightweight, can connect to remote servers and code remmotely, its safe, has excellent default hotkeys and much more.
+- Git is the toolset, it contains everything we need, but why do we also use github? Think of it that way, git are the wheel, every car manufacturer can use them, the implementation differs as well as the use case, which will get us discussing development techniques(agile, waterfall etc.). Git provides the basic commands, github provides some added functionality and the much needed free server.
+- Ubuntu on W10, its a OS build on OS, its not a VM, but its not exactly a stand alone OS as well. We have shared physical space on the hard drive which grants us excellent versatility.
 
+### Setup Github ssh
+
+We will use public RSA key for the ssh functionality of github, that way we can pull/push our repositories safely!
+If you need to understand how that works [here is a good read](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#:~:text=An%20RSA%20user%20creates%20and,who%20knows%20the%20prime%20numbers.&text=Breaking%20RSA%20encryption%20is%20known%20as%20the%20RSA%20problem.) about RSA.
+The steps go as follows:
 
 
 ### Tips && Tricks
