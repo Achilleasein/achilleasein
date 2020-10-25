@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple setup to run c/cpp and use github on W10
+title: :warning: Under construction :warning:
 tags: [c, cpp, wsl, w10, visual studio, ssh keys]
 excerpt_separator: <!--more-->
 ---
@@ -38,4 +38,8 @@ When you install everything you will have to restart your PC(expected from windo
     1. Execute the command as follows: cd /usr/Desktop/github # cd to github repo , what does that to? Whats written after the # works as a comment but its still visible by the cmd. Meaning we can actually use the Ctrl+R(reverse search) on cmd to search for the comment. In that case you will need to do the following: Ctrl+R -> cd to github repo, just like in the image below:
     {% include aligner.html images="reverse_search.PNG" column=1 %}
     The cmd will autofill the rest, then press enter and done, you have changed directory without the need to type everything manually.
+    
     2. You can create custom bash commands, [here](https://dev.to/mollynem/4-simple-steps-for-custom-bash-commands-4c58) is a simple guide.
+
+
+    <!-- Simple setup to run c/cpp and use github on W10  -->
