@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Welcome to Achilleas corner!  # Change Blog header text
-header_feature_image: assets/img/gallery_images/test.png #assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/gallery_images/cover.png #assets/img/pexels/triangular.jpeg
 footer_text: >
   Owned By me, many thanks to: <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/sylhare/Type-on-Strap">Slyhare</a> for the template!
 
