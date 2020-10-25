@@ -21,7 +21,7 @@ For the following guide we will need the following ingredients:
 
 ### Installing Everything!!
 
-We will need to setup Ubuntu on W10, its a very simple prodecure that allows Ubuntu to run ontop of W10.
+We will need to setup Ubuntu on W10, its a very simple procedure that allows Ubuntu to run on top of W10.
 Ubuntu can see the filesystem of windows and vice versa (the oposite is a little bit more tricky), but here we will just do the one way road.
   1. First you need to navigate to the windows store and search for ubuntu, I just use the latest version(20.04).
   2. Then you need to do the following: control panel -> Programs -> Turn windows Features on or off -> Navigate to the bottom and activate Windows subsystem for linux.
@@ -29,11 +29,11 @@ Ubuntu can see the filesystem of windows and vice versa (the oposite is a little
 
 When you install everything you will have to restart your PC(expected from windows at this point).
 
-### Getting Acustomed
+### Getting Accustomed
 
-Let's explaing what we installed and how we are going to use them.
+Let's explaining what we installed and how we are going to use them.
 - Visual studio code has some excellent features, such as markdown for each different language, keep tracking of changes in repositories and connecting with compilers.
-  I constantly use visual studio because it lightweight, can connect to remote servers and code remmotely, its safe, has excellent default hotkeys and much more.
+  I constantly use visual studio because it lightweight, can connect to remote servers and code remotely, its safe, has excellent default hotkeys and much more.
 - Git is the toolset, it contains everything we need, but why do we also use github? Think of it that way, git are the wheel, every car manufacturer can use them, the implementation differs as well as the use case, which will get us discussing development techniques(agile, waterfall etc.). Git provides the basic commands, github provides some added functionality and the much needed free server.
 - Ubuntu on W10, its a OS build on OS, its not a VM, but its not exactly a stand alone OS as well. We have shared physical space on the hard drive which grants us excellent versatility.
 
@@ -65,7 +65,7 @@ You can feel free to fork, branch or do anything you like with the repo in your 
 Keep in mind that I have a .gitignore file, in that specific file we add files that want to be ignored and never be pushed in the repo, for our current use we dont want to push the executable since anyone can compile it in his PC.
 
 ### Tips && Tricks
-1. Instead of trying to cd every time, you can actually store the commands for future use, there are 2 ways to do that.
+- Instead of trying to cd every time, you can actually store the commands for future use, there are 2 ways to do that.
     1. Execute the command as follows: cd /usr/Desktop/github # cd to github repo , what does that to? Whats written after the # works as a comment but its still visible by the cmd. Meaning we can actually use the Ctrl+R(reverse search) on cmd to search for the comment. In that case you will need to do the following: Ctrl+R -> cd to github repo, just like in the image below:
     {% include aligner.html images="reverse_search.PNG" column=1 %}
     The cmd will autofill the rest, then press enter and done, you have changed directory without the need to type everything manually.
@@ -75,6 +75,6 @@ Keep in mind that I have a .gitignore file, in that specific file we add files t
      - In there is the .bashrc, to view it use the command ls -la
      - Edit it and find the alias, there you can add you custom command as follows: alias cdtodesk ='cd /usr/Desktop/github'
    Keep in mind that the directory is an example, its more like in the photo above. 
-2. Git ignore file has many uses, for example when you create a web service application on python sometimes you have some passwords as plaintext to access a DB. The proper way to mitigate any security issues is to work in a Venv and setup env variables, that way you can add the venv file on .gitignore and your password will stay local, it will also ensure that no other person/colleague wich forks will add them as plaintext and then push by accident.
+- Git ignore file has many uses, for example when you create a web service application on python sometimes you have some passwords as plaintext to access a DB. The proper way to mitigate any security issues is to work in a Venv and setup env variables, that way you can add the venv file on .gitignore and your password will stay local, it will also ensure that no other person/colleague which forks will add them as plaintext and then push by accident.
 
     <!-- Simple setup to run c/cpp and use github on W10  -->
