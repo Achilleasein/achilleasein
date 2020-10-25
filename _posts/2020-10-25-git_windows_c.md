@@ -59,9 +59,9 @@ To do that follow the steps below:
 ### Executing order GCC!
 
 Navigate to the repository folder form within the visual studio, open the .c file, do any edits you may want, save it and compile it!
-To compile use the following command: ```bash gcc hello_world.c -o hello_world ```
-Now execute it with ```bash ./hello_world ```
-You can feel free to fork, branch or do anything you like with the repo in your own github account. It's not much use at its current state but maybe you will have some fun.
+To compile use the following command: ```bash gcc hello_world.c -o hello_world ```. \
+Now execute it with ```bash ./hello_world ``` \
+You can feel free to fork, branch or do anything you like with the repo in your own github account. It's not much use at its current state but maybe you will have some fun. \
 Keep in mind that I have a .gitignore file, in that specific file we add files that want to be ignored and never be pushed in the repo, for our current use we dont want to push the executable since anyone can compile it in his PC.
 
 ### Tips && Tricks
