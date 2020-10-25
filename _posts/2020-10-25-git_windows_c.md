@@ -44,7 +44,18 @@ Let's explaing what we installed and how we are going to use them.
 We will use public RSA key for the ssh functionality of github, that way we can pull/push our repositories safely!
 If you need to understand how that works [here is a good read](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#:~:text=An%20RSA%20user%20creates%20and,who%20knows%20the%20prime%20numbers.&text=Breaking%20RSA%20encryption%20is%20known%20as%20the%20RSA%20problem.) about RSA.
 The steps go as follows:
-
+   ```bash
+   $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+   > Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa):[Press enter] (Enter for default)
+   > Enter passphrase, you can also leave empty
+   $ cat ~/.ssh/id_rsa.pub copy this and keep it somewhere safe temporarily
+   ```
+Now you have to go to github -> click on profile top right corner -> settings -> SSH and GPG keys -> New GPG key -> Paste here what you copied from above.
+One more step left, you need to configure your local user. If you want to read more refer [here](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) and [here](https://askubuntu.com/questions/1097038/how-do-i-setup-ssh-key-based-authentication-for-github-by-using-ssh-config-fi)
+To do that follow the steps below:
+1. Go to a directory where you want to store your repos.
+2. ```bash git config user.name "FIRST_NAME LAST_NAME" ```
+3. ```bash git config user.email "MY_NAME@example.com" ```
 
 ### Tips && Tricks
 1. Instead of trying to cd every time, you can actually store the commands for future use, there are 2 ways to do that.
