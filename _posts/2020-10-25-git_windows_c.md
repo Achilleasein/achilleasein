@@ -48,7 +48,7 @@ The steps go as follows:
    > Enter passphrase, you can also leave empty
    $ cat ~/.ssh/id_rsa.pub copy this and keep it somewhere safe temporarily
    ```
-Now you have to go to github -> click on profile top right corner -> settings -> SSH and GPG keys -> New GPG key -> Paste here what you copied from above.
+Now you have to go to github -> click on profile top right corner -> settings -> SSH and GPG keys -> New SSH key -> Paste here what you copied from above.
 One more step left, you need to configure your local user. If you want to read more refer [here](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) and [here](https://askubuntu.com/questions/1097038/how-do-i-setup-ssh-key-based-authentication-for-github-by-using-ssh-config-fi)
 To do that follow the steps below:
 1. Go to a directory where you want to store your repos.
