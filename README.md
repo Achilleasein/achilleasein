@@ -7,6 +7,7 @@ Openscap is an amazing project that ensures security on installation and during 
 Find the repo below.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achilleasein&repo=openscap)](https://github.com/OpenSCAP/openscap)  
 Currently trying to become better in C and learn Rust.
+/play deeper
 
 ### General info
 On the left you can see my dog, Bruce. 
