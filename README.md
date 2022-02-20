@@ -14,3 +14,6 @@ If you see any mistakes or anything that I have missed please notify me! It's al
 
 Visit [my website](https://achilleasein.com), it's in this repo in case you want to see how I made it, for articles and posts, I'll try to keep a weekly schedule and create new and interesting content.
 You can find my future plans [here](https://github.com/Achilleasein/achilleasein/projects/1)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achilleasein)](https://github.com/achilleasein/github-readme-stats)
+
