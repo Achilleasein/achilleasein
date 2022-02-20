@@ -4,8 +4,8 @@
 
 I'm a QE Security Enineer at RedHat, working on openscap.
 Openscap is an amazing project that ensures security on installation and during runtime of your servers.
-Find the repo below.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achilleasein&repo=openscap)](https://github.com/OpenSCAP/openscap)
+Find the repo below.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achilleasein&repo=openscap)](https://github.com/OpenSCAP/openscap)  
 Currently trying to become better in C and learn Rust.
 
 ### General info
