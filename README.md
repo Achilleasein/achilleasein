@@ -1,12 +1,9 @@
-# Welcome to my corner! Please enjoy your stay :)
+# Welcome to my git
 
-### About me(its in the file name right?)
+### About me
 
-I'm a QE Security Enineer at RedHat, working on openscap.
-Openscap is an amazing project that ensures security on installation and during runtime of your servers.
-Find the repo below.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achilleasein&repo=openscap)](https://github.com/OpenSCAP/openscap)  
-Currently trying to become better in C and learn Rust.
+Currently working for Microsoft on creating a testing framework for teams, please dont blame me for the bugs, doing my best!
+I'm also trying to create my first indie game!
 /play deeper
 
 ### General info
@@ -22,7 +19,7 @@ If you see any mistakes or anything that I have missed please notify me! It's al
 
 ### My website
 
-Visit [my website](https://achilleasein.com), it's in this repo in case you want to see how I made it, for articles and posts, I'll try to keep a weekly schedule and create new and interesting content.
+Visit [my website](https://achilleasein.dev), it's in this repo in case you want to see how I made it, for articles and posts, I'll try to keep a weekly schedule and create new and interesting content.
 You can find my future plans [here](https://github.com/Achilleasein/achilleasein/projects/1)
 
 ### Contact:
