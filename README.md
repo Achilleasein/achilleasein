@@ -25,6 +25,5 @@ You can find my future plans [here](https://github.com/Achilleasein/achilleasein
 ### Contact:
 achilleasein@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achilleasein)](https://github.com/achilleasein/github-readme-stats)
 
 
